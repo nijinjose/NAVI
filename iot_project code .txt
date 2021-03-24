@@ -1,3 +1,5 @@
+# First Iteration of Code 
+
 int IN1 = 2;
 int IN2 = 3;
 int ir=7;
@@ -34,3 +36,5 @@ void relay_SetStatus( unsigned char status_1,  unsigned char status_2)
   digitalWrite(IN1, status_1);
   digitalWrite(IN2, status_2);
 }
+
+#code exit 
